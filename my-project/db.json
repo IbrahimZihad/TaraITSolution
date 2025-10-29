@@ -1,0 +1,67 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "description": "We build modern, responsive, and scalable web applications using React, Node.js, and cloud technologies.",
+      "icon": "🌐"
+    },
+    {
+      "id": 2,
+      "title": "Mobile App Development",
+      "description": "Custom mobile applications for Android and iOS built with Flutter and React Native.",
+      "icon": "📱"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "description": "Beautiful, user-centric designs that bring your product to life and improve user experience.",
+      "icon": "🎨"
+    },
+    {
+      "id": 4,
+      "title": "Cloud Solutions",
+      "description": "We provide reliable cloud deployment, scaling, and maintenance for your web infrastructure.",
+      "icon": "☁️"
+    },
+    {
+      "id": 5,
+      "title": "AI & Automation",
+      "description": "Integrate AI models and automation workflows to improve business efficiency.",
+      "icon": "🤖"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "Building Scalable Web Apps",
+      "excerpt": "Learn how to design systems that scale efficiently under heavy load...",
+      "content": "Scalability is one of the most important aspects of modern web applications. It ensures your system can handle increased load without compromising performance. Key techniques include database sharding, caching with Redis, using load balancers, and implementing microservices to split functionalities into smaller deployable units."
+    },
+    {
+      "id": 2,
+      "title": "Top UI Trends of 2025",
+      "excerpt": "From neumorphism to AI-driven personalization, the design world is evolving fast...",
+      "content": "In 2025, UI design is being shaped by AI and generative tools. Designers now rely on adaptive color systems, personalized user flows, and predictive interfaces that change based on context. Minimalism and accessibility remain central to design decisions, making products both beautiful and inclusive."
+    },
+    {
+      "id": 3,
+      "title": "Optimizing React Performance",
+      "excerpt": "Discover how to make your React apps faster and smoother for users...",
+      "content": "React performance optimization involves several key strategies: memoization with React.memo, code-splitting with React.lazy, avoiding unnecessary re-renders using useCallback and useMemo, and leveraging the React Profiler. Additionally, ensuring efficient state management with libraries like Zustand or Redux Toolkit can greatly enhance responsiveness."
+    },
+    {
+      "id": 4,
+      "title": "Mastering API Integration",
+      "excerpt": "A guide to integrating APIs efficiently with React and Node.js...",
+      "content": "API integration forms the bridge between frontend and backend systems. Using tools like Axios, we can manage data fetching and error handling easily. It's also important to centralize API calls and use environment variables for API URLs to maintain a clean architecture."
+    },
+    {
+      "id": 5,
+      "title": "Why Tailwind CSS Dominates Modern UI",
+      "excerpt": "Tailwind CSS continues to lead the UI framework world with its utility-first design...",
+      "content": "Tailwind CSS empowers developers with a flexible, utility-first approach that allows rapid prototyping and consistent design. Its growing ecosystem, coupled with strong community support, makes it a default choice for modern web projects. Pairing Tailwind with frameworks like React or Next.js offers unmatched productivity."
+    }
+  ]
+}
